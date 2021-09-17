@@ -4,5 +4,5 @@
 // console.log(areaofREC(75, 225))
 
 
-const areaofrec = (l,b)=>l*b
-console.log(areaofrec(25,5))
+const areaofrec=(l,b)=>l*b
+console.log(areaofrec(12,12))
